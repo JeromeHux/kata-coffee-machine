@@ -1,0 +1,6 @@
+# Default ignored files
+.idea/kata-coffee-machine.iml
+.idea/
+target/
+/shelf/
+/workspace.xml
